@@ -7,7 +7,7 @@
 
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=amrutha-m206&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutha-m206&show_icons=true&theme=radical) 
 
 
 
