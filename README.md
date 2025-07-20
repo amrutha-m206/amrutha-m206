@@ -6,9 +6,6 @@
  I’m pursuing B.Tech(Hons) in CSE at RV University.
 
 
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amrutha-m206&show_icons=true&theme=radical) 
-
 
 
 ## Badges
