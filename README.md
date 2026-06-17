@@ -10,20 +10,6 @@
 
 ## Badges
 
-### Postman Challenge
-<div>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman Challenge"/>
-</div>
-
-### GSSOC-ext 2024 (opensource contributions)
-<div>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" alt="Badge 1"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" alt="Badge 2"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" alt="Badge 3"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" alt="Badge 4"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" alt="Badge 5"/>
-</div>
-
 
 ### Hacktoberfest 2024 (opensource contributions)
 
